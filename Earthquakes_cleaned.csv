@@ -1,0 +1,287 @@
+,Date,Time,Magnitude(ml),Depth(km),Region,Latitude,Longitude
+0,03/09/2023,16:35,5.2,107,Azerbaijan. From Georgia border - 162km.   ,40.3335,48.266
+1,26/08/2023,12:43,3.7,1,Russia. Chechnia. From Georgia border - 31km.   ,42.816,45.701
+2,24/08/2023,13:15,3.8,2,From Tbilisi  54km. City Dmanisi - South-East - 10km. Village Gora - 1km.   ,41.231,44.28
+3,14/08/2023,07:05,3.2,24, Town Khazbegi - South-East - 33km. Village Chalisofeli - 2km.   ,42.4708,45.0031
+4,28/07/2023,05:55,3.5,8, City Borjomi - West - 17km. Village Atskuri - 5km.   ,41.7878,43.1566
+5,26/07/2023,07:02,4.7,35,Azerbaijan. From Georgia border - 372km.   ,38.767,49.748
+6,19/07/2023,04:54,3.1,5,From Tbilisi  57km. City Dmanisi - North-West - 17km. Village mamishlari - 1km.,41.417,44.0011
+7,19/07/2023,02:38,3.2,45, City Dedoplistskaro - South-West - 25km. Village Gamarjveba - 20km.   ,41.2021,45.7811
+8,04/07/2023,08:04,3.5,10,Armenia. From Georgia border - 2km.   ,41.1395,43.9138
+9,04/07/2023,01:50,3.2,12, City Ninotsminda - East - 24km. Village Sameba - 8km.   ,41.2065,43.9055
+10,30/06/2023,08:55,3.5,2,Russia. Dagestan. From Georgia border - 111km.   ,43.1181,46.8108
+11,25/06/2023,09:14,3.1,7,,41.0016,43.474
+12,07/06/2023,06:24,3.9,5, City Tianeti - North-East - 32km. Village Ukanafshavi.   ,42.4116,45.1165
+13,06/06/2023,07:21,3.9,13, City Tianeti - North-East - 32km. Village Ukanafshavi.   ,42.403,45.1165
+14,24/05/2023,16:53,3.4,25,Russia. Dagestan. From Georgia border - 5km.   ,42.1503,45.9465
+15,17/05/2023,04:30,3.5,8, City Ozurgeti - East - 16km. Resort Gomismta - 5km.   ,41.8421,42.2255
+16,30/04/2023,22:02,2.9,42, City Dedoplistskaro - West - 12km. Village Gamarjveba - 6km.   ,41.4351,45.949
+17,30/04/2023,10:02,4.0,19,Russia. Dagestan. From Georgia border - 124km.   ,42.0996,47.9275
+18,27/04/2023,15:54,3.5,20, City Kutaisi - South - 4km. Village Geguti.   ,42.1775,42.6865
+19,27/04/2023,08:32,3.1,7,From Tbilisi  60km. City Tsalka - South-West - 18km. Village mamishlari - 5km.   ,41.4335,43.9583
+20,26/04/2023,22:46,2.3,7,From Tbilisi  60km. City Tsalka - South-West - 18km. Village mamishlari - 5km.   ,41.4346,43.9568
+21,26/04/2023,15:37,3.2,11,From Tbilisi  62km. City Dmanisi - West - 12km. Village Soghutlo - 7km.   ,41.3038,44.026
+22,25/04/2023,07:08,3.5,19, City Kutaisi - South - 4km. Village Geguti.   ,42.1763,42.681
+23,24/04/2023,11:22,3.9,8,Azerbaijan. From Georgia border - 16km.   ,41.5353,46.5951
+24,12/04/2023,21:38,3.6,12,Azerbaijan. From Georgia border - 139km.   ,40.857,48.2918
+25,11/04/2023,10:30,4.1,2,From Georgia border - 188km.   ,39.48,44.36
+26,08/04/2023,15:54,3.3,11,From Tbilisi  58km. City Tsalka - South-West - 14km. Village Salamaleiqi - 6km.   ,41.4696,43.9631
+27,07/04/2023,08:29,4.5,10,Turkey. From Georgia border - 134km.   ,39.0781,40.4116
+28,05/04/2023,07:37,3.1,37,Azerbaijan. From Georgia border - 39km.   ,40.877,46.9788
+29,03/04/2023,11:47,3.5,4,,42.7185,46.4505
+30,01/04/2023,14:03,4.3,15,Russia. From Georgia border - 103km.   ,44.0651,43.2673
+31,30/03/2023,14:09,3.8,3,Russia. Dagestan. From Georgia border - 54km.,42.6588,46.3718
+32,25/03/2023,05:03,3.4,12, City Lagodekhi - North-West - 10km. Village Zemo khechili - 2km.,41.915,46.1676
+33,16/03/2023,11:47,5.4,0,From Georgia border - 297km.   ,38.44,45.22
+34,11/03/2023,07:41,3.2,7,Russia. Chechnia. From Georgia border - 49km.,42.9198,45.772
+35,08/03/2023,03:15,3.5,11, City Gurdjaani - North-East - 12km. Village Balghojiani.,41.8216,45.9471
+36,05/03/2023,01:24,3.2,2,,40.9915,42.8051
+37,01/03/2023,10:52,4.2,14,From Tbilisi  64km. City Dmanisi - West - 20km. Village mamishlari - 7km.   ,41.3715,43.9418
+38,01/03/2023,05:21,3.2,4,Tao-Klarjeti. From Georgia border - 72km.   ,40.7873,42.5126
+39,21/02/2023,01:56,3.0,6, City Ozurgeti - East - 15km. Resort Gomismta - 5km.   ,41.847,42.2241
+40,20/02/2023,22:54,3.7,3, Town Chokhatauri - South - 15km. Resort Gomismta - 5km.   ,41.8608,42.2275
+41,19/02/2023,06:27,3.3,13, City Ozurgeti - East - 15km. Resort Gomismta - 5km.   ,41.8511,42.2263
+42,19/02/2023,05:18,3.6,7, City Ozurgeti - East - 15km. Resort Gomismta - 4km.   ,41.85,42.2176
+43,18/02/2023,10:57,3.0,9,From Tbilisi  58km. City Tsalka - South-West - 16km. Village mamishlari - 4km.   ,41.4431,43.9781
+44,17/02/2023,19:44,3.2,3, City Ozurgeti - South-East - 17km. Resort Gomismta - 4km.   ,41.8295,42.2286
+45,17/02/2023,11:20,3.2,7, Town Chokhatauri - South - 17km. Resort Bakhmaro - 5km.   ,41.8458,42.2438
+46,17/02/2023,09:40,3.4,7, Town Chokhatauri - South - 16km. Resort Gomismta - 6km.   ,41.8533,42.233
+47,14/02/2023,20:02,3.1,10,From Tbilisi  58km. City Tsalka - South-West - 17km. Village mamishlari - 4km.   ,41.4381,43.9718
+48,12/02/2023,13:55,3.2,8, City Akhalkalaki - North-West - 1km. Village Diliska.   ,41.4425,43.4583
+49,12/02/2023,08:21,3.6,14, City Ozurgeti - East - 15km. Resort Gomismta - 4km.   ,41.8485,42.2186
+50,12/02/2023,08:06,4.5,7, City Ozurgeti - East - 15km. Resort Gomismta - 4km.   ,41.8456,42.226
+51,11/02/2023,15:33,4.5,4, Town Chokhatauri - South - 15km. Resort Gomismta - 5km.,41.8578,42.2276
+52,06/02/2023,15:33,5.2,0,From Georgia border - 464km.   ,38.27,38.15
+53,06/02/2023,10:51,5.7,8,Turkey. From Georgia border - 462km.   ,38.3,38.13
+54,06/02/2023,10:42,3.7,11,,41.1636,43.8586
+55,06/02/2023,10:35,3.9,11, City Ninotsminda - East - 22km. Village Sameba - 2km.   ,41.1626,43.8548
+56,06/02/2023,10:24,7.5,10,Turkey. From Georgia border - 538km.   ,38.024,37.203
+57,06/02/2023,01:59,5.0,10,Turkey. From Georgia border - 837km.   ,38.79,32.06
+58,06/02/2023,01:58,5.1,10,Turkey. From Georgia border - 654km.   ,37.01,36.68
+59,06/02/2023,01:51,3.2,3,   ,43.0576,45.1333
+60,06/02/2023,01:47,5.0,10,From Georgia border - 443km.   ,37.35,41.77
+61,06/02/2023,01:40,3.2,11,,42.9475,46.2615
+62,06/02/2023,01:36,5.6,10,From Georgia border - 648km.   ,37.05,36.73
+63,06/02/2023,01:28,6.7,40,Turkey. From Georgia border - 636km.   ,37.13,36.81
+64,06/02/2023,01:26,5.6,17,Turkey. From Georgia border - 628km.   ,37.05,37.09
+65,06/02/2023,01:26,4.6,23,Tao-Klarjeti. From Georgia border - 44km.,41.0495,42.3176
+66,06/02/2023,01:17,7.8,10,Turkey. From Georgia border - 616km.   ,38.09,37.2
+67,06/02/2023,00:16,3.7,8,Armenia. From Georgia border - 0km.   ,41.1605,43.8651
+68,31/01/2023,02:54,3.7,11,Azerbaijan. From Georgia border - 129km.   ,40.9743,48.2123
+69,28/01/2023,18:14,6.0,13,From Georgia border - 307km.   ,38.426,44.8005
+70,23/01/2023,01:58,3.1,43,Azerbaijan. From Georgia border - 30km.,41.0276,45.8956
+71,14/01/2023,08:36,4.5,29,,41.864,46.27
+72,14/01/2023,08:36,4.3,26,Russia. Dagestan. From Georgia border - 5km.   ,41.9201,46.4188
+73,09/01/2023,19:55,3.3,7,City Tkibuli.   ,42.3503,43.057
+74,29/12/2022,20:00,3.2,31, City Kvareli - East - 6km. Village Chantliskhure.   ,41.9241,45.918
+75,27/12/2022,19:21,3.2,13, City Dmanisi - West - 23km. Village Saghamo - 11km.,41.2841,43.9048
+76,26/12/2022,10:47,3.5,7, City Oni - South-East - 9km. Village Iri.,42.5045,43.543
+77,26/12/2022,09:51,3.6,12, City Oni - South-East - 8km. Village Iri.,42.5116,43.5421
+78,24/12/2022,20:08,3.0,9,,43.319,41.4353
+79,23/12/2022,07:04,3.4,2,Tao-Klarjeti. From Georgia border - 56km.   ,40.7926,42.7833
+80,15/12/2022,19:04,3.8,44,Azerbaijan. From Georgia border - 207km.   ,39.6695,48.3183
+81,08/12/2022,10:21,4.0,64,Russia. Dagestan. From Georgia border - 46km.   ,42.238,46.7981
+82,08/12/2022,06:42,5.2,59,Russia. Dagestan. From Georgia border - 52km.   ,42.1843,46.8405
+83,30/11/2022,03:43,3.2,9,,43.1841,41.5486
+84,13/11/2022,11:20,4.1,10, City Tkvarcheli - North-West - 44km. Village Marjvena ptishi - 18km.,43.2431,41.532
+85,29/10/2022,00:34,3.2,6,From Tbilisi  58km. City Tsalka - South-West - 18km. Village mamishlari - 2km.   ,41.4208,43.9915
+86,28/10/2022,07:09,3.1,21,Azerbaijan. From Georgia border - 92km.   ,40.2255,46.6508
+87,27/10/2022,06:28,3.6,40, City Dedoplistskaro - North-East - 4km. Village karaghaji - 2km.   ,41.5118,46.1918
+88,24/10/2022,15:28,3.1,6,Russia. Chechnia. From Georgia border - 44km.,42.9641,45.549
+89,24/10/2022,09:39,3.4,9,From Tbilisi  57km. City Tsalka - South-West - 16km. Village mamishlari - 2km.,41.4331,43.9988
+90,24/10/2022,09:20,3.0,11,From Tbilisi  57km. City Tsalka - South-West - 16km. Village mamishlari - 3km.   ,41.4356,43.9926
+91,23/10/2022,06:12,3.1,10,,42.6713,45.7758
+92,27/09/2022,16:16,3.9,1,Tao-Klarjeti. From Georgia border - 57km.   ,40.7696,42.8093
+93,27/09/2022,14:08,5.4,5,   ,40.7435,42.788
+94,26/09/2022,13:44,3.3,2, City Tkvarcheli - North-East - 46km. Village Tita - 12km.   ,43.1856,42.0813
+95,15/09/2022,18:07,3.0,21, City Telavi - North - 35km. Resort Torghvas Abano - 5km.   ,42.2608,45.5741
+96,05/09/2022,21:34,3.9,5, City Sachkhere - East - 16km. Village Tedeleti.,42.4341,43.7886
+97,03/09/2022,10:35,3.2,7,,43.3576,41.5543
+98,21/08/2022,23:33,3.1,19, City Telavi - North - 31km. Resort Torghvas Abano - 8km.,42.2168,45.5951
+99,18/08/2022,23:46,3.1,10, City Dmanisi - South-West - 24km. Village Sameba - 10km.,41.2013,43.9295
+100,18/08/2022,23:18,3.7,9, City Dmanisi - South-West - 25km. Village Sameba - 9km.,41.1933,43.9236
+101,15/08/2022,14:47,3.2,5, Town Adigeni - North-West - 21km. Village Zoti - 7km.,41.8533,42.542
+102,11/08/2022,20:34,3.6,6,Turkey. From Georgia border - 128km.   ,40.291,41.5996
+103,05/08/2022,17:01,3.4,49,Azerbaijan. From Georgia border - 71km.   ,40.5023,47.0443
+104,03/08/2022,09:11,3.1,10, City Ninotsminda - East - 25km. Village Sameba - 7km.   ,41.1861,43.9035
+105,28/07/2022,06:39,4.0,29,Azerbaijan. From Georgia border - 1km.   ,41.0696,46.4446
+106,27/07/2022,23:48,4.0,20, City Dedoplistskaro - South-East - 49km. Village Zemo khalatsani - 21km.   ,41.0858,46.4673
+107,24/07/2022,01:49,3.6,9, City Dmanisi - South-West - 24km. Village Sameba - 10km.   ,41.2066,43.9253
+108,23/07/2022,08:09,3.2,16,Azerbaijan. From Georgia border - 7km.,41.7925,46.4835
+109,18/07/2022,10:33,3.7,13,Russia. North Ossetia. From Georgia border - 26km.,42.994,44.8828
+110,16/07/2022,02:13,3.2,10, City Ninotsminda - East - 25km. Village Sameba - 8km.,41.1893,43.9221
+111,14/07/2022,07:22,3.3,19, City Lagodekhi - North-West - 17km. Village Zemo khechili - 11km.   ,41.9556,46.0963
+112,11/07/2022,20:26,3.1,10, City Dmanisi - South-West - 24km. Village Sameba - 10km.,41.2091,43.9245
+113,11/07/2022,19:03,3.8,10, City Dmanisi - South-West - 25km. Village Sameba - 9km.   ,41.1916,43.9208
+114,11/07/2022,18:25,3.2,10, City Dmanisi - South-West - 25km. Village Sameba - 9km.   ,41.1925,43.9241
+115,11/07/2022,13:54,3.5,9, City Dmanisi - South-West - 25km. Village Sameba - 9km.,41.2008,43.9281
+116,11/07/2022,06:24,3.7,7, City Dmanisi - South-West - 25km. Village Sameba - 9km.,41.2035,43.93
+117,11/07/2022,06:14,3.1,10, City Dmanisi - South-West - 25km. Village Sameba - 9km.,41.194,43.9288
+118,11/07/2022,05:47,3.2,10, City Ninotsminda - East - 25km. Village Sameba - 7km.   ,41.1863,43.9106
+119,11/07/2022,05:10,4.7,12, City Dmanisi - South-West - 24km. Village Sameba - 10km.   ,41.2055,43.929
+120,11/07/2022,03:36,4.9,10, City Dmanisi - South-West - 25km. Village Sameba - 9km.   ,41.1958,43.9198
+121,03/07/2022,23:45,4.3,23,Russia. Kabardino-Balkaria. From Georgia border - 60km.,43.404,43.6716
+122,02/07/2022,08:24,3.8,17, City Lagodekhi - North-West - 17km. Village Zemo khechili - 7km.,41.9598,46.1083
+123,29/06/2022,10:10,3.1,7,From Tbilisi  59km. City Tsalka - South-West - 18km. Village mamishlari - 3km.   ,41.4228,43.9776
+124,27/06/2022,03:49,4.1,9, City Dmanisi - South-West - 24km. Village Sameba - 10km.   ,41.1921,43.9425
+125,17/06/2022,01:09,4.0,8, City Ninotsminda - East - 26km. Village Sameba - 8km.   ,41.1765,43.9145
+126,16/06/2022,02:18,3.0,10, City Ninotsminda - East - 25km. Village Sameba - 7km.   ,41.1885,43.9076
+127,03/06/2022,08:09,4.2,13,Turkey. From Georgia border - 141km.   ,40.2866,41.0945
+128,31/05/2022,19:50,3.3,3,Russia. Chechnia. From Georgia border - 32km.,42.772,45.8905
+129,31/05/2022,02:21,3.1,13,Russia. Chechnia. From Georgia border - 5km.,42.5861,45.4183
+130,26/05/2022,04:55,3.8,13,Russia. Chechnia. From Georgia border - 3km.,42.5721,45.4266
+131,24/05/2022,20:07,3.2,10, City Dmanisi - South-West - 25km. Village Sameba - 9km.   ,41.2023,43.9253
+132,21/05/2022,04:42,3.2,46, City Dedoplistskaro - South-West - 25km. Village Gamarjveba - 24km.   ,41.2678,45.9173
+133,21/05/2022,02:12,3.5,14, City Borjomi - South-East - 10km. Village Cikhisjvari.   ,41.7266,43.4436
+134,14/05/2022,17:14,4.4,9, City Dmanisi - South-West - 26km. Village Sameba - 8km.   ,41.1801,43.918
+135,09/05/2022,21:41,4.2,40, City Dedoplistskaro - South-West - 14km. Village Leninovka - 13km.   ,41.3523,45.987
+136,03/05/2022,22:43,3.7,10, City Dmanisi - South-West - 26km. Village Sameba - 9km.,41.1748,43.92
+137,02/05/2022,12:50,3.5,9, City Dmanisi - South-West - 24km. Village Sameba - 10km.   ,41.1958,43.9321
+138,02/05/2022,03:29,3.4,10, City Ninotsminda - East - 24km. Village Sameba - 9km.,41.1776,43.9203
+139,01/05/2022,19:35,5.3,11, City Dmanisi - South-West - 25km. Village Sameba - 9km.   ,41.192,43.9273
+140,30/04/2022,22:23,3.4,9, City Ninotsminda - East - 26km. Village Sameba - 8km.   ,41.183,43.9131
+141,25/04/2022,13:14,3.5,25,Russia. Chechnia. From Georgia border - 118km.   ,43.8056,45.2148
+142,23/04/2022,06:54,3.1,11, City Ninotsminda - East - 15km. Village Saghamo - 3km.   ,41.2868,43.7995
+143,20/04/2022,13:37,3.2,34, City Dedoplistskaro - East - 31km. Village Qvemo qedi - 3km.,41.33,46.3945
+144,17/04/2022,04:49,3.8,13,Russia. Chechnia. From Georgia border - 9km.   ,42.583,45.4213
+145,15/04/2022,13:02,4.0,24,Azerbaijan. From Georgia border - 41km.   ,41.6556,46.8158
+146,14/04/2022,01:21,3.2,11, City Dmanisi - South-West - 26km. Village Sameba - 8km.,41.18,43.9245
+147,14/04/2022,00:13,3.9,9, City Dmanisi - South-West - 25km. Village Sameba - 9km.,41.187,43.9258
+148,11/04/2022,01:34,4.1,26,Black Sea. From Georgia coastline  21km.   ,42.4861,41.2193
+149,09/04/2022,10:22,3.1,4,Russia. Chechnia. From Georgia border - 45km.   ,42.7805,46.1478
+150,09/04/2022,02:30,3.7,12, City Oni - South-East - 8km. Village Iri.   ,42.51,43.542
+151,07/04/2022,10:38,3.3,10, City Dmanisi - South-West - 25km. Village Sameba - 9km.   ,41.1928,43.9228
+152,05/04/2022,11:02,3.2,9, City Dmanisi - South-West - 25km. Village Sameba - 9km.,41.1825,43.9278
+153,05/04/2022,06:43,3.1,9, City Dmanisi - South-West - 25km. Village Sameba - 10km.,41.1938,43.9311
+154,03/04/2022,08:32,3.2,8,Russia. Dagestan. From Georgia border - 60km.   ,42.2596,47.0005
+155,01/04/2022,18:18,3.1,10, City Dmanisi - South-West - 26km. Village Sameba - 8km.,41.1906,43.9155
+156,30/03/2022,13:42,3.8,29,From Georgia border - 181km.   ,42.8478,48.252
+157,30/03/2022,11:27,3.1,29, City Kvareli - South-East - 1km. Village Tsitskanaantseri - 1km.   ,41.9201,45.8493
+158,26/03/2022,11:00,3.0,11, City Dmanisi - South-West - 24km. Village Sameba - 10km.,41.1931,43.9356
+159,24/03/2022,14:36,3.8,9, City Dmanisi - South-West - 25km. Village Sameba - 9km.   ,41.1871,43.9288
+160,23/03/2022,17:10,4.0,10, City Ninotsminda - East - 25km. Village Sameba - 8km.   ,41.1891,43.9083
+161,22/03/2022,06:14,3.0,14,Russia. Chechnia. From Georgia border - 18km.   ,42.5856,45.4305
+162,15/03/2022,12:25,4.8,13, City Vani - South-East - 18km. Resort Sairme - 6km.,41.9211,42.6545
+163,14/03/2022,04:22,3.1,0,,42.712,45.399
+164,14/03/2022,04:22,3.7,12,Russia. Chechnia. From Georgia border - 3km.   ,42.5726,45.428
+165,14/03/2022,02:37,3.5,13,,42.5913,45.419
+166,14/03/2022,01:15,4.7,12,Russia. Chechnia. From Georgia border - 4km.,42.5781,45.417
+167,10/03/2022,19:55,3.0,15, Town Suaxevi - South-West - 5km. Village Mofrineti.   ,41.577,42.1238
+168,07/03/2022,06:24,3.9,9,Russia. Chechnia. From Georgia border - 7km.   ,42.5703,45.3951
+169,03/03/2022,23:36,3.1,10, City Dmanisi - South-West - 22km. Village Sameba - 12km.,41.1776,43.9531
+170,01/03/2022,10:34,4.2,6,Azerbaijan. From Georgia border - 30km.,41.5135,46.6048
+171,23/02/2022,14:45,3.1,12, City Dmanisi - South-West - 26km. Village Sameba - 8km.,41.1923,43.9131
+172,21/02/2022,18:22,3.7,13,City Kobuleti.   ,41.8403,41.838
+173,21/02/2022,12:17,3.2,11, City Ninotsminda - East - 23km. Village Sameba - 8km.,41.2125,43.8943
+174,20/02/2022,13:36,3.6,78,Russia. Chechnia. From Georgia border - 66km.,43.0245,46.1131
+175,19/02/2022,17:19,3.4,11,Armenia. From Georgia border - 2km.,41.1331,43.964
+176,18/02/2022,06:34,3.1,5,From Tbilisi  56km. City Tsalka - South-West - 14km. Village Salamaleiqi - 3km.,41.4583,43.9918
+177,16/02/2022,07:37,3.3,11,,41.1563,43.9258
+178,14/02/2022,17:03,3.5,9, City Dmanisi - South-West - 26km. Village Sameba - 8km.   ,41.1868,43.9145
+179,14/02/2022,14:13,3.9,11, City Dmanisi - South-West - 25km. Village Sameba - 11km.   ,41.16,43.9521
+180,13/02/2022,23:35,3.5,12, City Dmanisi - South-West - 26km. Village Sameba - 8km.,41.1896,43.9131
+181,13/02/2022,18:37,3.1,11, City Dmanisi - South-West - 25km. Village Sameba - 8km.,41.2055,43.9103
+182,13/02/2022,18:35,3.9,13, City Dmanisi - South-West - 25km. Village Sameba - 10km.,41.1775,43.9401
+183,13/02/2022,18:30,3.5,13, City Dmanisi - South-West - 25km. Village Sameba - 9km.,41.1873,43.9303
+184,13/02/2022,18:28,4.5,11, City Dmanisi - South-West - 26km. Village Sameba - 8km.,41.184,43.9203
+185,13/02/2022,18:25,6.1,10, City Dmanisi - South-West - 26km. Village Sameba - 9km.   ,41.1665,43.9348
+186,09/02/2022,12:26,4.7,16,Russia. Ingushetia. From Georgia border - 52km.,43.1796,45.2195
+187,09/02/2022,04:53,3.4,15,Russia. Chechnia. From Georgia border - 7km.,42.554,45.4345
+188,03/02/2022,15:02,3.4,62,Russia. Dagestan. From Georgia border - 50km.   ,42.4446,46.3878
+189,01/02/2022,22:04,3.2,11,From Tbilisi  57km. City Tsalka - South-West - 16km. Village mamishlari - 2km.   ,41.4363,43.9915
+190,24/01/2022,19:09,3.3,9,Russia. Chechnia. From Georgia border - 5km.,42.5821,45.4098
+191,22/01/2022,02:46,3.6,10, City Ninotsminda - East - 25km. Village Sameba - 8km.,41.1935,43.9216
+192,21/01/2022,22:37,3.0,11, City Ninotsminda - East - 25km. Village Sameba - 8km.,41.1785,43.9236
+193,21/01/2022,22:28,3.1,9, City Ninotsminda - East - 24km. Village Sameba - 9km.,41.1815,43.9165
+194,09/01/2022,14:27,3.0,35,,41.4123,45.484
+195,30/12/2021,20:04,4.0,12,From Tbilisi  57km. City Tsalka - South-West - 17km. Village mamishlari - 2km.   ,41.4333,43.9921
+196,29/12/2021,01:29,3.1,34,Russia. Chechnia. From Georgia border - 27km.   ,42.776,45.6973
+197,24/12/2021,17:17,3.4,14,Armenia. From Georgia border - 6km.   ,41.145,44.3886
+198,17/12/2021,07:10,3.3,9,Armenia. From Georgia border - 0km.   ,41.1283,43.8233
+199,16/12/2021,17:50,3.1,10, City Dmanisi - South-West - 25km. Village Sameba - 9km.,41.1933,43.9286
+200,15/12/2021,21:00,3.3,9, City Dmanisi - South-West - 25km. Village Sameba - 9km.   ,41.1968,43.9291
+201,14/12/2021,03:50,3.1,57,Russia. Dagestan. From Georgia border - 69km.,42.4798,46.7066
+202,12/12/2021,02:18,3.1,38, City Gurdjaani - South-East - 4km. Village Bakurcikhe.,41.7155,45.851
+203,10/12/2021,18:17,3.1,5, City Martvili - West - 8km. Village legogie.,42.4375,42.2421
+204,09/12/2021,02:42,3.2,11,From Tbilisi  57km. City Tsalka - South-West - 16km. Village mamishlari - 2km.,41.4356,43.9918
+205,07/12/2021,16:02,3.0,11, City Ninotsminda - East - 25km. Village Sameba - 7km.,41.1758,43.9026
+206,04/12/2021,14:26,3.6,6, Town Mestia - West - 29km. Village Nakra - 3km.,43.1018,42.3405
+207,04/12/2021,10:01,3.0,9, City Dmanisi - South-West - 25km. Village Sameba - 10km.,41.1808,43.9361
+208,02/12/2021,23:22,4.3,2,Russia. Dagestan. From Georgia border - 122km.   ,42.9976,47.0856
+209,28/11/2021,05:54,3.0,9,City Oni.   ,42.592,43.4471
+210,27/11/2021,20:16,3.1,9, City Dmanisi - South-West - 19km. Village Irganchai - 10km.   ,41.1936,44.0113
+211,26/11/2021,03:21,3.4,11,From Tbilisi  64km. City Dmanisi - West - 18km. Village mamishlari - 7km.   ,41.3568,43.953
+212,22/11/2021,08:31,4.9,1,Turkey. From Georgia border - 174km.   ,39.8596,41.8423
+213,21/11/2021,03:48,3.1,12,From Tbilisi  52km. City Dmanisi - North-West - 9km. Village Zemo karabulaghi.   ,41.401,44.0938
+214,16/11/2021,18:43,3.3,10,From Tbilisi  55km. City Dmanisi - South-East - 12km. Village Guguti - 1km.,41.2181,44.2838
+215,15/11/2021,00:16,3.5,12,Russia. Chechnia. From Georgia border - 44km.,43.0068,45.53
+216,14/11/2021,06:23,3.2,10, City Dmanisi - South-West - 26km. Village Sameba - 9km.   ,41.175,43.9265
+217,08/11/2021,17:34,3.4,11,From Tbilisi  58km. City Tsalka - South-West - 18km. Village mamishlari - 2km.,41.4395,43.9883
+218,08/11/2021,14:58,3.6,11,From Tbilisi  57km. City Tsalka - South-West - 16km. Village mamishlari - 3km.,41.432,43.9948
+219,05/11/2021,02:28,3.2,8, City Dmanisi - South-West - 25km. Village Sameba - 9km.,41.1826,43.9335
+220,04/11/2021,22:56,3.8,46,Azerbaijan. From Georgia border - 2km.   ,41.2195,45.6228
+221,04/11/2021,09:50,3.7,12, City Oni - South-East - 6km. Village Iri.,42.529,43.5383
+222,31/10/2021,23:44,3.0,23,Russia. Dagestan. From Georgia border - 3km.,42.0728,46.0028
+223,31/10/2021,09:28,3.1,22,Russia. Chechnia. From Georgia border - 114km.   ,43.7256,45.4335
+224,25/10/2021,18:09,3.0,8, City Oni - East - 4km. Village Qvedi.   ,42.5353,43.475
+225,25/10/2021,17:00,3.3,9,Armenia. From Georgia border - 2km.,41.1461,43.9166
+226,25/10/2021,12:57,3.5,9,Armenia. From Georgia border - 2km.,41.143,43.9198
+227,24/10/2021,21:52,3.2,28,From Tbilisi  16km.City Rustavi.,41.5056,45.0466
+228,24/10/2021,17:20,3.0,9,Armenia. From Georgia border - 1km.,41.1478,43.9368
+229,24/10/2021,17:04,4.5,10,Armenia. From Georgia border - 2km.,41.1465,43.9388
+230,24/10/2021,15:17,3.3,65,Russia. Dagestan. From Georgia border - 47km.   ,42.7635,46.1875
+231,20/10/2021,04:45,4.8,13,Russia. Chechnia. From Georgia border - 46km.,43.0245,45.5276
+232,18/10/2021,10:49,3.4,38, City Dedoplistskaro - South-West - 32km. Village Gamarjveba - 30km.,41.2851,45.7831
+233,17/10/2021,17:19,3.2,10,Russia. Chechnia. From Georgia border - 47km.,42.9145,45.9198
+234,16/10/2021,22:40,3.5,7,Tao-Klarjeti. From Georgia border - 51km.   ,40.9401,42.6706
+235,05/10/2021,08:31,4.0,9, City Ninotsminda - East - 23km. Village Sameba - 5km.,41.1725,43.8993
+236,03/10/2021,12:38,3.1,5,Russia. Karachay-CHerkessia. From Georgia border - 4km.,43.3721,41.3418
+237,29/09/2021,22:44,3.4,10, City Dmanisi - West - 21km. Village mamishlari - 10km.,41.3543,43.9213
+238,28/09/2021,18:46,3.4,22,Azerbaijan. From Georgia border - 30km.,41.5223,46.6736
+239,27/09/2021,17:26,3.6,3,Russia. Chechnia. From Georgia border - 93km.,43.1421,46.3813
+240,27/09/2021,11:00,3.4,7,Russia. Chechnia. From Georgia border - 45km.   ,43.2096,46.3955
+241,26/09/2021,15:07,3.6,11, City Oni - South-East - 7km. Village Iri.,42.5113,43.5391
+242,19/09/2021,14:34,3.0,11, City Dmanisi - South-West - 26km. Village Sameba - 8km.,41.178,43.9235
+243,16/09/2021,10:19,3.3,10, City Ninotsminda - East - 25km. Village Sameba - 8km.   ,41.1891,43.9201
+244,15/09/2021,00:35,3.0,10, City Ninotsminda - East - 25km. Village Sameba - 7km.   ,41.181,43.9146
+245,14/09/2021,08:33,3.1,10, City Ninotsminda - East - 24km. Village Sameba - 8km.,41.1886,43.9158
+246,08/09/2021,09:32,3.0,9, City Tianeti - North - 31km. Village Betischrdili.,42.4163,44.938
+247,08/09/2021,06:22,3.1,17,Russia. Chechnia. From Georgia border - 73km.,43.1235,46.0685
+248,06/09/2021,02:04,3.4,10,Russia. Dagestan. From Georgia border - 4km.,42.1306,45.9608
+249,03/09/2021,10:29,3.8,10, City Ninotsminda - East - 26km. Village Sameba - 8km.   ,41.176,43.9146
+250,03/09/2021,08:50,3.1,12,Russia. Dagestan. From Georgia border - 8km.,42.1668,45.9255
+251,03/09/2021,03:34,4.7,6,Russia. Dagestan. From Georgia border - 6km.   ,42.156,45.937
+252,29/08/2021,04:28,3.1,10, City Dmanisi - West - 24km. Village Sameba - 10km.,41.216,43.9165
+253,25/08/2021,05:31,3.2,10, City Dmanisi - South-West - 26km. Village Sameba - 8km.   ,41.1856,43.9138
+254,18/08/2021,09:41,4.2,10, City Ninotsminda - East - 22km. Village Sameba - 6km.   ,41.1861,43.9076
+255,17/08/2021,14:06,3.9,10, City Dmanisi - South-West - 26km. Village Sameba - 9km.,41.179,43.9251
+256,17/08/2021,10:44,3.3,9,Armenia. From Georgia border - 0km.   ,41.1621,43.9175
+257,17/08/2021,10:15,3.2,10, City Ninotsminda - East - 27km. Village Sameba - 8km.   ,41.166,43.915
+258,17/08/2021,05:43,3.8,10, City Dmanisi - South-West - 27km. Village Sameba - 8km.   ,41.1673,43.9191
+259,16/08/2021,22:47,3.0,10, City Dmanisi - South-West - 26km. Village Sameba - 8km.   ,41.1865,43.92
+260,16/08/2021,21:51,3.0,10,,41.1705,43.9271
+261,16/08/2021,15:56,3.1,10, City Dmanisi - West - 25km. Village Sameba - 9km.   ,41.2118,43.9155
+262,16/08/2021,01:51,3.2,10, City Dmanisi - West - 25km. Village Sameba - 9km.,41.2101,43.9136
+263,16/08/2021,01:44,5.1,10, City Ninotsminda - East - 25km. Village Sameba - 8km.,41.2022,43.9126
+264,15/08/2021,23:19,4.1,10, City Dmanisi - South-West - 26km. Village Sameba - 8km.,41.1936,43.9145
+265,15/08/2021,19:42,3.7,9, City Dmanisi - South-West - 26km. Village Sameba - 10km.,41.1896,43.9386
+266,12/08/2021,11:52,3.3,10, City Ninotsminda - East - 25km. Village Sameba - 8km.   ,41.2051,43.9173
+267,10/08/2021,21:17,3.1,9, City Dmanisi - South-West - 26km. Village Sameba - 8km.   ,41.185,43.9135
+268,10/08/2021,21:14,3.1,11, City Ninotsminda - East - 25km. Village Sameba - 8km.   ,41.1893,43.9088
+269,10/08/2021,12:34,3.0,10, City Ninotsminda - East - 25km. Village Sameba - 8km.   ,41.1906,43.9081
+270,09/08/2021,04:03,3.4,10, City Dmanisi - South-West - 24km. Village Sameba - 10km.   ,41.189,43.943
+271,09/08/2021,03:24,3.5,10, City Dmanisi - South-West - 25km. Village Sameba - 9km.   ,41.1883,43.931
+272,07/08/2021,04:28,3.9,10, City Dmanisi - South-West - 24km. Village Sameba - 10km.   ,41.1938,43.9388
+273,06/08/2021,23:36,3.4,10, City Dmanisi - South-West - 25km. Village Sameba - 10km.,41.1938,43.9325
+274,06/08/2021,15:25,3.3,9, City Dmanisi - South-West - 24km. Village Sameba - 10km.,41.1978,43.9361
+275,06/08/2021,08:55,3.5,11,From Tbilisi  25km. City Bolnisi - West - 1km. Village Zvareti.   ,41.4416,44.4826
+276,01/08/2021,17:09,3.1,10, City Ninotsminda - East - 24km. Village Sameba - 9km.   ,41.1775,43.9226
+277,30/07/2021,00:16,3.6,10, City Dmanisi - South-West - 26km. Village Sameba - 9km.   ,41.1905,43.9316
+278,29/07/2021,22:16,3.1,1,Russia. Chechnia. From Georgia border - 58km.,42.9865,46.1478
+279,28/07/2021,18:18,3.1,6,Russia. Dagestan. From Georgia border - 30km.,42.587,46.2428
+280,28/07/2021,00:41,5.1,67,Russia. Dagestan. From Georgia border - 58km.   ,42.5406,46.654
+281,25/07/2021,09:02,3.8,12,From Tbilisi  54km. City Tsalka - South-West - 13km. Village Salamaleiqi - 2km.   ,41.4611,44.0108
+282,20/07/2021,22:03,3.0,10,,43.4898,41.177
+283,16/07/2021,01:04,2.8,10,   ,41.1725,43.9338
+284,14/07/2021,07:41,3.1,13, City Ninotsminda - East - 25km. Village Sameba - 7km.   ,41.1673,43.8848
+285,14/07/2021,07:04,4.0,10, City Ninotsminda - East - 21km. Village Saghamo - 10km.,41.1793,43.9273
